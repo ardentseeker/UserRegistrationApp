@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340919154164",
+    "project_id": "userregistrationapp-e892e",
+    "storage_bucket": "userregistrationapp-e892e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340919154164:android:d93610b8f800791c20f5a1",
+        "android_client_info": {
+          "package_name": "com.example.userregistrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340919154164-l28ljbhlpe1f84s58otau735u8u7dr8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.userregistrationapp",
+            "certificate_hash": "d9d09db86ce528a79a64e3dffd8e322555bd9fc5"
+          }
+        },
+        {
+          "client_id": "340919154164-010fu303oq8mr9jc9u38vsrvfj9fccrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmgqPHOZLoJnz23S3q0NcWMchDKtggajo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340919154164-010fu303oq8mr9jc9u38vsrvfj9fccrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
